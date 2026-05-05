@@ -96,7 +96,7 @@ Make sure to add environment variables in deployment settings.
 
 ## 📸 Demo
 
-(Add screenshots here after deployment)
+https://github.com/user-attachments/assets/e20369d7-d26d-4d49-9aa4-f4674823f9ff
 
 ---
 
