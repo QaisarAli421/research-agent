@@ -10,6 +10,7 @@ load_dotenv()
 #model setup 
 llm = ChatGroq(
     model="llama-3.1-8b-instant",
+    max_tokens=500,
     temperature=0
 )
 
